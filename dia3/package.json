@@ -1,0 +1,25 @@
+{
+  "name": "dia3",
+  "version": "1.0.0",
+  "description": "Exercici del dia 3",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaumemoral/curs-auth-api.git"
+  },
+  "author": "jaumem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaumemoral/curs-auth-api/issues"
+  },
+  "homepage": "https://github.com/jaumemoral/curs-auth-api#readme",
+  "dependencies": {
+	"express":"4.14.0",
+	"basic-auth":"1.1.0",
+	"node-2fa":"1.1.1",
+	"body-parser":"1.15.2"
+  }
+}
